@@ -8,6 +8,7 @@ public class DemoJenkinsMvcApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoJenkinsMvcApplication.class, args);
+		System.out.println("whoosh");
 	}
 
 }
