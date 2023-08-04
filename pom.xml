@@ -130,7 +130,8 @@
 							<report>report</report>
 						</reports>
 					</reportSet>
-				</reportSets>			</plugin>
+				</reportSets>			
+			</plugin>
 		</plugins>
 	</reporting>
 
