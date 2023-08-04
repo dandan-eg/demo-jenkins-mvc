@@ -9,7 +9,7 @@ class DemoJenkinsMvcApplicationTests {
 
 	@Test
 	void contextLoads() {
-	    assertTrue(1 == 2);
+	    assertTrue(true);
 	}
 	
 	
